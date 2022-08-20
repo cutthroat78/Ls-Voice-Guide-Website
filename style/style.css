@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Sans Forgetica";
+    src: url(SansForgetica-Regular.otf)
+format("opentype");
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: "Sans Forgetica";
+    text-align: center;
+}
